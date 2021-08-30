@@ -1,6 +1,5 @@
 # Python algorithm for bubblesort
 
-
 def bubbleSort(arr):
     n = len(arr)
 
@@ -11,10 +10,8 @@ def bubbleSort(arr):
   
 
 arr = [64, 34, 25, 12, 22, 11, 90]
-
 print("Initial array: ", arr)
   
 bubbleSort(arr)
-
 print("Sorted array: ", arr)
   
